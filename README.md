@@ -18,7 +18,6 @@
 
 ```yaml
 name: Soumedhik
-pronouns: he/him
 handle: sssplus
 status: 🎯 Focusing
 company: PRIMEBRIO INDUSTRIES PVT LTD
@@ -36,18 +35,6 @@ philosophy: "Move fast. Ship differently. Build something real."
 ```
 
 <br clear="right"/>
-
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-| 🦈 Pull Shark | 🎯 YOLO | ⚡ Quickdraw |
-|:---:|:---:|:---:|
-| Merged reviewed PRs | Shipped without waiting | Closed issues in < 5 min |
-
-</div>
 
 ---
 
