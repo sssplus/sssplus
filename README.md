@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Founder+%40+PRIMEBRIO+INDUSTRIES+PVT+LTD;Building+AI+products+%7C+Web+%7C+Games+%7C+Industry;%F0%9F%8E%AF+Focusing+%E2%80%94+always+shipping.;he%2Fhim+%7C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Founder+%40+PRIMEBRIO+INDUSTRIES+PVT+LTD;Building+AI+products+%7C+Web+%7C+Games+%7C+Industry;%F0%9F%8E%AF+Focusing+%E2%80%94+always+shipping.)](https://git.io/typing-svg)
 
 </div>
 
@@ -238,5 +238,3 @@ philosophy: "Move fast. Ship differently. Build something real."
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
-
--->
