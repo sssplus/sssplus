@@ -179,6 +179,12 @@ philosophy: "Move fast. Ship differently. Build something real."
 </div>
 
 ---
+---
+
+### ⏱️ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### 🐍 Contribution Graph
 
