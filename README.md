@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Soumedhik&fontSize=72&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Trying%20to%20build%20something%20different.&descAlignY=58&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Soumedhik&fontSize=72&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20Builder%20%E2%80%A2%20Shipping%20something%20different.&descAlignY=58&descColor=8b949e" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Founder+%40+PRIMEBRIO+INDUSTRIES+PVT+LTD;Building+AI+products+%7C+Web+%7C+Games+%7C+Industry;%F0%9F%8E%AF+Focusing+%E2%80%94+always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Founder+%40+PRIMEBRIO+INDUSTRIES+PVT+LTD;AI+Products+%C2%B7+Web+Platforms+%C2%B7+Games;%F0%9F%8E%AF+Move+fast+%E2%80%94+ship+differently.)](https://github.com/DenverCoder1/readme-typing-svg)
 
 </div>
 
@@ -17,20 +17,23 @@
 ### 🧬 `whoami`
 
 ```yaml
-name: Soumedhik
+name: Soumedhik Chatterjee
 handle: sssplus
+role: Founder & Builder
 status: 🎯 Focusing
 company: PRIMEBRIO INDUSTRIES PVT LTD
 email: soumedhikchatterjee@gmail.com
 website: primebrioind.com
 twitter: "@PRIMEBRIOIND"
 
-building:
-  - AI-powered applications & podcast demos
-  - Industrial connectivity tools (cables & connectors)
+focus:
+  - AI-powered applications & podcast tooling
+  - Industrial connectivity (cables & connectors)
   - Web platforms for PRIMEBRIO
-  - Games with Godot Engine
+  - Games with the Godot Engine
 
+currently: building the PRIMEBRIO product suite
+learning: LLM systems, real-time audio, game design
 philosophy: "Move fast. Ship differently. Build something real."
 ```
 
@@ -42,13 +45,22 @@ philosophy: "Move fast. Ship differently. Build something real."
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+**Frameworks & Runtime**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -71,7 +83,7 @@ philosophy: "Move fast. Ship differently. Build something real."
         </a>
       </div>
       <p align="center">
-        AI-powered podcast application stack. Building intelligent audio experiences with modern LLM tooling.
+        AI-powered podcast application stack — intelligent audio experiences built on modern LLM tooling.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/AI-Powered-58a6ff?style=flat-square"/>
@@ -86,7 +98,7 @@ philosophy: "Move fast. Ship differently. Build something real."
         </a>
       </div>
       <p align="center">
-        Industry-grade reference for the cables & connectors ecosystem — powering the hardware backbone of PRIMEBRIO.
+        Industry-grade reference for the cables & connectors ecosystem — the hardware backbone of PRIMEBRIO.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -103,7 +115,7 @@ philosophy: "Move fast. Ship differently. Build something real."
         </a>
       </div>
       <p align="center">
-        Crafting interactive worlds with the Godot Engine. From gotham noir to open worlds — game dev is system design with soul.
+        Crafting interactive worlds in the Godot Engine — from gotham noir to open worlds. Game dev is system design with soul.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white"/>
@@ -118,7 +130,7 @@ philosophy: "Move fast. Ship differently. Build something real."
         </a>
       </div>
       <p align="center">
-        The digital face of PRIMEBRIO INDUSTRIES. Built with intention — clean, fast, and purposeful.
+        The digital face of PRIMEBRIO INDUSTRIES — clean, fast, and built with intention.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -178,13 +190,30 @@ philosophy: "Move fast. Ship differently. Build something real."
 
 </div>
 
----
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sssplus&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="95%" alt="GitHub Trophies"/>
+
+</div>
+
 ---
 
 ### ⏱️ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sssplus&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=16213e" width="100%" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
 
 ### 🐍 Contribution Graph
 
@@ -195,8 +224,6 @@ philosophy: "Move fast. Ship differently. Build something real."
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sssplus/sssplus/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
-
-> ⚙️ **Setup in 2 minutes:** Add the [platane/snk](https://github.com/platane/snk) GitHub Actions workflow to generate this snake animation automatically.
 
 ---
 
