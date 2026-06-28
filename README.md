@@ -190,11 +190,11 @@ philosophy: "Move fast. Ship differently. Build something real."
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=sssplus&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="95%" alt="GitHub Trophies"/>
 
-</div>
+</div> -->
 
 ---
 
