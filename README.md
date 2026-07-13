@@ -16,28 +16,38 @@
 
 ### 🧬 `whoami`
 
+**Hey, I'm Soumedhik 👋** — founder & builder at **[PRIMEBRIO INDUSTRIES PVT LTD](https://primebrioind.com)**.
+
+I build at the intersection of **AI software** and **industrial hardware** — LLM-powered apps and podcast tooling on one side, the cables & connectors ecosystem on the other — with web platforms and Godot games in between. If it can be shipped, I'm interested.
+
 ```yaml
-name: Soumedhik Chatterjee
-handle: sssplus
-role: Founder & Builder
-status: 🎯 Focusing
-company: PRIMEBRIO INDUSTRIES PVT LTD
-email: soumedhikchatterjee@gmail.com
-website: primebrioind.com
-twitter: "@PRIMEBRIOIND"
+soumedhik:
+  role: "Founder & Builder"
+  company: "PRIMEBRIO INDUSTRIES PVT LTD"
+  status: "🎯 Focusing — heads-down on the PRIMEBRIO product suite"
 
-focus:
-  - AI-powered applications & podcast tooling
-  - Industrial connectivity (cables & connectors)
-  - Web platforms for PRIMEBRIO
-  - Games with the Godot Engine
+  building:
+    - 🤖 AI-powered applications & podcast tooling
+    - 🔌 Industrial connectivity — cables & connectors
+    - 🌐 Web platforms for PRIMEBRIO
+    - 🎮 Games in the Godot Engine
 
-currently: building the PRIMEBRIO product suite
-learning: LLM systems, real-time audio, game design
-philosophy: "Move fast. Ship differently. Build something real."
+  learning:     [LLM systems, real-time audio, game design]
+  ask_me_about: [AI products, Godot, shipping fast, starting up]
+
+  fun_fact: "Game dev is just system design with soul."
+  philosophy: "Move fast. Ship differently. Build something real."
 ```
 
 <br clear="right"/>
+
+<div align="center">
+
+| 🔭 Right now | 🌱 Leveling up | ⚡ Beyond the code |
+| :---: | :---: | :---: |
+| Building the **PRIMEBRIO product suite** | **LLM systems** & real-time audio | Crafting worlds in **Godot** |
+
+</div>
 
 ---
 
